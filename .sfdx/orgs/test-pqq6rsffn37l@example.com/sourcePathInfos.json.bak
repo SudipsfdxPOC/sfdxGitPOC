@@ -1,0 +1,356 @@
+[
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529851618055,
+            "changeTime": 1529851618055,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529851618056,
+            "changeTime": 1529851618056,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529851618059,
+            "changeTime": 1529851618059,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530175831701,
+            "changeTime": 1530175831701,
+            "isWorkspace": false,
+            "contentHash": "48f26e0abdf9f41156c075e93eebce8707bae19e"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529852384914,
+            "changeTime": 1529852384914,
+            "contentHash": "c4270c1f38272626ed49f1c4dd4af63c66ccc6cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.auradoc",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529852384912,
+            "changeTime": 1529852384912,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.cmp",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.cmp",
+            "isDirectory": false,
+            "size": 59,
+            "modifiedTime": 1529852400725,
+            "changeTime": 1529852400725,
+            "contentHash": "58ccaa59f10dbcdd3c0d04c505e6058c7ef7fd63",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1529852384888,
+            "changeTime": 1529852384888,
+            "contentHash": "6b938d5b545e117a6dca52e2edc17e17cb5814f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.css",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529852384900,
+            "changeTime": 1529852384900,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.design",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1529852384915,
+            "changeTime": 1529852384915,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.svg",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24Jun.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529852384908,
+            "changeTime": 1529852384908,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24JunController.js",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24JunController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1529852384892,
+            "changeTime": 1529852384892,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24JunHelper.js",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24JunHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529852384896,
+            "changeTime": 1529852384896,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24JunRenderer.js",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComp24Jun\\testComp24JunRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529852384904,
+            "changeTime": 1529852384904,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC",
+        {
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1529852617639,
+            "changeTime": 1529852617639,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530175831720,
+            "changeTime": 1530175831720,
+            "contentHash": "35749bb00b384e45ee6e6f7b0075a6f79a826dbd"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1530175831720,
+            "changeTime": 1530175831720,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1530175831704,
+            "changeTime": 1530175831704,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1530175831704,
+            "changeTime": 1530175831704,
+            "contentHash": "3793c3ab1bde63dd62a5d1909765c084384c421f"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1530175831704,
+            "changeTime": 1530175831704,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.design",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1530175831720,
+            "changeTime": 1530175831720,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.svg",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1530175831720,
+            "changeTime": 1530175831720,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2Controller.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1530175831704,
+            "changeTime": 1530175831704,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2Helper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1530175831704,
+            "changeTime": 1530175831704,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2Renderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sudip.a.bhattacharya\\sfdxPOC\\force-app\\main\\default\\aura\\testComponent2\\testComponent2Renderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1530175831704,
+            "changeTime": 1530175831704,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
